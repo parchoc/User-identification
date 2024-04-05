@@ -1,0 +1,2 @@
+# User identification
+In this task we will solve the problem of user identification: the algorithm will analyze a sequence of several websites visited consecutively by the same person and determine whether it is Alice or an attacker (someone else). As data, we have the visited websites and the date of visit.
